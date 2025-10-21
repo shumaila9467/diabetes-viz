@@ -3,7 +3,7 @@
 {Shumaila Abbasi}
 
 ## What is your current goal? Has it changed since the proposal?
-    To identify risks factors that can help predict diabetes. Previously, I had planned on conducting a state-wise analysis, but now I will be only focusing on the risk factors that can be associated with diabetes. 
+To identify risks factors that can help predict diabetes. Previously, I had planned on conducting a state-wise analysis, but now I will be only focusing on the risk factors that can be associated with diabetes. 
 ## Are there data challenges you are facing? Are you currently depending on mock data?
 No data challenges 
 
